@@ -1,4 +1,4 @@
-def get_positive_numbers():
+def get_positive_numbers()->list:
     """
     the function create a list of positive numbers only from the user input
     @return positive_numbers : list of the positive numbers
